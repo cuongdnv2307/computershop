@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/computershop/static/css/main.69eda509.chunk.css",
+    "main.js": "/computershop/static/js/main.70a348c1.chunk.js",
+    "main.js.map": "/computershop/static/js/main.70a348c1.chunk.js.map",
+    "runtime-main.js": "/computershop/static/js/runtime-main.f2961093.js",
+    "runtime-main.js.map": "/computershop/static/js/runtime-main.f2961093.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/computershop/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.c367a204.chunk.js": "/computershop/static/js/2.c367a204.chunk.js",
+    "static/js/2.c367a204.chunk.js.map": "/computershop/static/js/2.c367a204.chunk.js.map",
+    "index.html": "/computershop/index.html",
+    "precache-manifest.7cba3e8fd51f021289351c5b42358267.js": "/computershop/precache-manifest.7cba3e8fd51f021289351c5b42358267.js",
+    "service-worker.js": "/computershop/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/computershop/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.69eda509.chunk.css.map": "/computershop/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.c367a204.chunk.js.LICENSE.txt": "/computershop/static/js/2.c367a204.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2961093.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.c367a204.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.70a348c1.chunk.js"
+  ]
+}
