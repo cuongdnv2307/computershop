@@ -1,5 +1,6 @@
 {
-  "name": "todoapp",
+  "homepage": "https://cuongdnv2307.github.io/computershop",
+  "name": "computershop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,6 +10,7 @@
     "axios": "^0.19.2",
     "bootstrap": "^4.5.0",
     "bootstrap-table": "^1.16.0",
+    "gh-pages": "^3.0.0",
     "jquery": "^3.5.1",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.1",
@@ -25,7 +27,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "server": "json -server -p3001 db.json"
+    "server": "json -server -p3001 db.json",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build",
   },
   "eslintConfig": {
     "extends": "react-app"
