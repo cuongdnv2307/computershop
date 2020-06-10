@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const baseUrl = 'http://localhost:3001/todos'
+const baseUrl = 'https://5ee0dd0e30deff0016c3f77c.mockapi.io/products'
 
 const getAll = () => {
   return axios.get(baseUrl)
@@ -15,7 +15,7 @@ const remove = id => {
 }
 
 const update = (id, changedPart) => {
-  return axios.patch(`${baseUrl}/${id}`, changedPart)
+  return axios.put(`${baseUrl}/${id}`, changedPart)
 }
 
 export default {
