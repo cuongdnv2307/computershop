@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "20eb3223aebb01fde1699ca29d6e032f",
+    "revision": "5f027186711eec835fed54ba32872dee",
     "url": "/computershop/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/computershop/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "11aac22552698d5160a7",
+    "revision": "f68e42143515f943ddba",
     "url": "/computershop/static/css/main.69eda509.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/computershop/static/js/2.c367a204.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "11aac22552698d5160a7",
-    "url": "/computershop/static/js/main.70a348c1.chunk.js"
+    "revision": "f68e42143515f943ddba",
+    "url": "/computershop/static/js/main.6c992440.chunk.js"
   },
   {
     "revision": "cfc2a1a2db97933d4596",
